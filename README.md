@@ -9,5 +9,5 @@ You can watch the demo video here:
 
 
 ![Web1](images/Web1.png)
-![Web2](images/Web2.png)
+
 
