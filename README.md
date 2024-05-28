@@ -4,7 +4,7 @@ I build this cool interactive website for a Discord like App called Daccord.
 
 You can watch the demo video here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V2o8dUzNP-4" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/V2o8dUzNP-4/0.jpg)](https://youtu.be/V2o8dUzNP-4)
 
 
 
